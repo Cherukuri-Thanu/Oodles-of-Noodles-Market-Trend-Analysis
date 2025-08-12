@@ -1,4 +1,4 @@
-# OodlesOfNoodles-MarketTrendAnalysis
+# Oodles of Noodles - Market Trend Analysis
 This project presents an analytical dashboard for Oodles of Noodles Meal Kit Service, based on revenue insights and distribution metrics to help the company make sensible business decisions.
 
 ### Data:
